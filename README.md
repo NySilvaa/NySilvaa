@@ -1,5 +1,5 @@
 # 💫 Olá, Sou Nycolas
-<br>💻 Programador Full-Stack e Formado em ADS<br>🌱 Estudando Computação em Nuvem & GraphQL<br>🔭 Focado em Criar Aplicações Escaláveis<br>🎯 Busco me Tornar Desenvolvedor Sênior<br>
+<br>💻 Programador Full-Stack e Formado em ADS<br>🌱 Estudando Computação em Nuvem & GraphQL<br>🔭 Focado em Criar Aplicações Escaláveis<br>🎯 Busco me Tornar Desenvolvedor Sênior<br> 🌍 Falo 4 Idiomas: 🇧🇷 | 🇺🇸 | 🇪🇸 | 🇫🇷
 
 
 ## 🌐 Socials:
